@@ -4,7 +4,7 @@ The project analyzes the Gapminder project's data and helps to visualize the cor
 
 Usage
 --------
-python zeppelin.py
+Jupiter Notebook Animated_scatterplot_with_plotly.ipynb
 
 Description
 --------
