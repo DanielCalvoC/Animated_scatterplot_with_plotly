@@ -6,9 +6,6 @@ Usage
 --------
 Jupiter Notebook Animated_scatterplot_with_plotly.ipynb
 
-Description
---------
-The project analyzes the Gapminder project's data and helps to visualize the correlation between each country's population and fertiliy rate
 
 Used tech
 --------
